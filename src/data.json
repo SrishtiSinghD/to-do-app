@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "event":"Make TO-DO App",
+        "status":true
+
+    },
+
+    {
+        "id":2,
+        "event":"Make TO-DO App with TDD",
+        "status":false
+
+    },
+    {
+        "id":3,
+        "event":"Attend the Onboarding Session",
+        "status":false
+
+    }
+]
